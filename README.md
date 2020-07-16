@@ -48,15 +48,3 @@ Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, curre
 
 ![Onasanya's github stats](https://github-readme-stats.vercel.app/api?username=rammyblog&show_icons=true&hide_border=true)
 
-⭐️ From [rammyblog](https://github.com/abhisheknaiidu)
-
-
-<a href="https://github.com/rammyblog/dev-connect">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rammyblog&repo=dev-connect" />
-</a>
-
-<a href="https://github.com/rammyblog/PriceTracker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rammyblog&repo=PriceTracker" />
-</a>
-
-
