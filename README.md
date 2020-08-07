@@ -22,7 +22,7 @@ Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, curre
   
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
-- 👨🏽‍💻 I’m currently working on [BaseMailer](https://github.com/Basemailer) and <s>[PriceTracker](https://github.com/rammyblog/PriceTracker)</s>;
+- 👨🏽‍💻 I’m currently working on [BaseMailer](https://github.com/Basemailer) and [MERN Admin Dashboard](https://github.com/rammyblog/MERN-Admin-Dashboard);
 - 🌱 I’m currently learning NodeJs, Data Structures and Algorithms; 
 - 💬 Ask me about anything related to Django and React, I am happy to help;
 - ⚡️ Fun-Fact: I am helping CodeClan Nigeria build it's web application, so as to help 500+ people turn developers every 3 months in Nigeria. I am currently the frontend team lead.
