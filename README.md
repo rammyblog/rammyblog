@@ -22,12 +22,12 @@ Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, curre
   
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
-- 👨🏽‍💻 I’m currently working on [BaseMailer](https://github.com/Basemailer) and [MERN Admin Dashboard](https://github.com/rammyblog/MERN-Admin-Dashboard);
+- 👨🏽‍💻 I’m currently working on [CodeClan Nigeria WebApp](https://github.com/codeclannigeria/codeclannigeria-frontend) and [BaseMailer](https://github.com/Basemailer);
 - 🌱 I’m currently learning NodeJs, Data Structures and Algorithms; 
 - 💬 Ask me about anything related to Django and React, I am happy to help;
 - ⚡️ Fun-Fact: I am helping CodeClan Nigeria build it's web application, so as to help 500+ people turn developers every 3 months in Nigeria. I am currently the frontend team lead.
 - 📫 How to reach me: onasanyatunde67@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1DxZU1-Zx2kDWLZv3IBocaww8rrDa4-Ug/view)
+- 📝[Resume](https://docs.google.com/document/d/1dyhpzGgPyFgevUEkWcRt1WAERnDHURwNT057coHlfN0/edit)
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
