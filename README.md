@@ -27,7 +27,7 @@ Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, curre
 - 💬 Ask me about anything related to Django and React, I am happy to help;
 - ⚡️ Fun-Fact: I am helping CodeClan Nigeria build it's web application, so as to help 500+ people turn developers every 3 months in Nigeria. I am currently the frontend team lead.
 - 📫 How to reach me: onasanyatunde67@gmail.com;
-- 📝[Resume](https://docs.google.com/document/d/1dyhpzGgPyFgevUEkWcRt1WAERnDHURwNT057coHlfN0/edit)
+- 📝[Resume](https://docs.google.com/document/d/1v8eCsG_eLnftjjCVV5AZCtbNPYAnWBz_g0cT3bibA-8/edit?usp=sharing)
 
 **Languages and Tools:**  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
