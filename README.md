@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Onasanya Babatunde!](https://onasanyatunde.codes) 
+### Hey 👋🏽, I'm [Onasanya Babatunde!](https://onasanyatunde.vercel.app) 
 
 <a href="https://twitter.com/simply_rammy">
   <img align="left" alt="Onasanya Babatunde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, currently, I'm a softwate developer 🙍🏽‍♂️[@kudobuzz](https://github.com/kudobuzz) and helping out [@codeclan](https://github.com/codeclannigeria) and a computer engineering graduate👨🏽‍🎓. Beside's programming, I enjoy playing games 🎮 and football⚽.
+Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, currently, I'm a softwate developer 🙍🏽‍♂️[@kudobuzz](https://github.com/kudobuzz) and a computer engineering graduate👨🏽‍🎓. Beside's programming, I enjoy playing games 🎮 and football⚽.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" />
   
@@ -24,7 +24,6 @@ Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, curre
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning NodeJs, Data Structures and Algorithms, Typescript; 
 - 💬 Ask me about anything related to Django, Node and React, I am happy to help;
-- ⚡️ Fun-Fact: I am helping CodeClan Nigeria build it's web application, so as to help 500+ people turn developers every 3 months in Nigeria. I am currently the frontend team lead.
 - 📫 How to reach me: onasanyatunde67@gmail.com;
 - 📝[Resume](https://docs.google.com/document/d/1v8eCsG_eLnftjjCVV5AZCtbNPYAnWBz_g0cT3bibA-8/edit?usp=sharing)
 
