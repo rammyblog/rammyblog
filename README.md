@@ -22,8 +22,7 @@ Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, curre
   
 **Talking about Personal Stuffs:**
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning NodeJs, Data Structures and Algorithms, Typescript; 
-- 💬 Ask me about anything related to Django, Node and React, I am happy to help;
+- 💬 Ask me about anything related to Django, Node , GO and React, I am happy to help;
 - 📫 How to reach me: onasanyatunde67@gmail.com;
 - 📝[Resume](https://docs.google.com/document/d/1v8eCsG_eLnftjjCVV5AZCtbNPYAnWBz_g0cT3bibA-8/edit?usp=sharing)
 
