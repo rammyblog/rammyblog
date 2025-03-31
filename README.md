@@ -41,10 +41,3 @@ Hi, I'm Onasanya Tunde, a Full Stack Developer 🚀 from Nigeria 🇳🇬, curre
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://camo.githubusercontent.com/87d7034892fd41dc88f3606bb44b853f87cd2c51/68747470733a2f2f7265666163746f72696e6775692e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f7461696c77696e642d6c6f676f2e737667"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-
-
-
-
-
-![Onasanya's github stats](https://github-readme-stats.vercel.app/api?username=rammyblog&show_icons=true&hide_border=true)
-
